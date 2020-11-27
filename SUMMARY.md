@@ -4,10 +4,8 @@ date: 2020-11-27T18:56:31.385Z
 ---
 # マニュアル
 
-## HOME
-
-* [このページについて](README.md)
+- [目次](README.md)
 
 ## Brackets
 
-* [Bracketsの導入](brackets-setting.md)
+- [Bracketsの導入](brackets-setting.md)
