@@ -1,13 +1,12 @@
 ---
-title: 技術資料
+title: マニュアル
 date: 2020-11-27T18:56:31.385Z
 ---
+# マニュアル
 
-# 技術資料
+## HOME
 
-## Home
-
-* [HOME](README.md)
+* [このページについて](README.md)
 
 ## Brackets
 
