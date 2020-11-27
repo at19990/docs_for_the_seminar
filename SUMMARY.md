@@ -1,11 +1,13 @@
 ---
-title: NetlifyBook
+title: 技術資料
 date: 2020-11-27T18:56:31.385Z
 ---
 
-# HOME
+# 技術資料
 
-* [Home](README.md)
+## Home
+
+* [HOME](README.md)
 
 ## Brackets
 
