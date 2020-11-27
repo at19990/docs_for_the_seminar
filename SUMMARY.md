@@ -7,5 +7,6 @@ date: 2020-11-27T18:56:31.385Z
 
 - [Introduction](README.md)
 
-## Brackets
-- [Bracketsの導入](brackets-setting.md)
+# Brackets
+
+* [Bracketsの導入](brackets-setting.md)
