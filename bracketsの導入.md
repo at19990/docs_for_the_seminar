@@ -1,5 +1,5 @@
 ---
-title: Bracketsの導入
+title: Brackets Setting
 date: 2020-11-27T18:43:50.610Z
 ---
 # インストール
