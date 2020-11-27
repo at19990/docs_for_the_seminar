@@ -3,9 +3,9 @@ title: NetlifyBook
 date: 2020-11-27T18:56:31.385Z
 ---
 
-# Summary
+# HOME
 
-[Introduction](README.md)
+* [Home](README.md)
 
 ## Brackets
 
