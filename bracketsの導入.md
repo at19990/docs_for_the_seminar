@@ -6,11 +6,17 @@ date: 2020-11-27T18:43:50.610Z
 
 1. この[リンク](http://brackets.io/)からダウンロードしてインストール
 
-   ![](/media/brackets_install_1.png)
+<img src="/media/brackets_install_1.png" width=600px>
+
+2.  起動を確認
+
+<img src="/media/brackets_plugin_1.png" width=600px>
 
 # 拡張機能の導入
 
 1. メニューバーの「ファイル」から「拡張機能マネージャー」を選ぶ
+
+
 2. 検索ボックスから入れたいプラグインの名前をひとつづつ入れてインストールボタンでインストール
 
    以下はとりあえず入れておくと便利なモノ
