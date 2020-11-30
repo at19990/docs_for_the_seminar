@@ -24,8 +24,14 @@ date: 2020-11-28T14:48:02.865Z
 
   `Ctrl + /` 　(`Cmd + /`)
 
+これ以外のショートカットは[こちら](https://qiita.com/assialiholic/items/7683d94108b12f1ca3ad)から
+
 ## その他
 
 * 行の選択
 
    画面左側に出る行番号の数字を押す
+
+* プレビュー機能について
+
+   プレビューを使うには [Google Chrome](https://www.google.com/intl/ja_jp/chrome/) をインストールしないといけないみたいです…
